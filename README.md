@@ -2,7 +2,7 @@
 
 You've found my GitHub profile! You'll find a lot of my interests here, along with sweet tools that have helped me in my journey to become a better developer. Check my starred repositories! ⭐️  
 
-Will be adding some _musical projects_ here very soon! 🎹
+I'll be adding some _musical projects_ here eventually! 🎹
 
 <!--
 **actuallyitsnathaniel/actuallyitsnathaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
