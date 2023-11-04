@@ -4,6 +4,23 @@ You've found my GitHub profile! You'll find a lot of my interests here, along wi
 
 I'll be adding some _musical projects_ here eventually! 🎹
 
+## Here are my proudest projects so far:
+
+### [Sahil Jindal's Website](https://github.com/actuallyitsnathaniel/sahil-site-fe)
+
+<img width="80%" src="https://user-images.githubusercontent.com/38742706/280430819-4ecd9abf-43d3-4aaa-b05d-28eeaa765760.png" />
+
+### [John White's Website](https://github.com/actuallyitsnathaniel/john-white-site)
+
+<img width="80%" src="https://user-images.githubusercontent.com/38742706/280431376-551fee0f-55cf-4f31-a252-a2166f36603c.png" />
+
+### [Ryland's Website](https://github.com/actuallyitsnathaniel/ryland-website)
+
+<img width="80%" alt="Screenshot 2023-11-03 at 5 20 58 PM" src="https://github.com/actuallyitsnathaniel/ryland-website/assets/38742706/5a2c5d59-55c9-45ca-bf3b-970b0becd1dc">
+
+### [Sam Denton's Website](https://github.com/actuallyitsnathaniel/sam-denton-site)
+
+<img width="80%" src="https://user-images.githubusercontent.com/38742706/280430566-0135352a-c245-44bb-91aa-6582cd6a6110.png" />
 <!--
 **actuallyitsnathaniel/actuallyitsnathaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
