@@ -16,7 +16,7 @@ I'll be adding some _musical projects_ here eventually! 🎹
 
 ### [Ryland's Website](https://github.com/actuallyitsnathaniel/ryland-website)
 
-<img width="80%" alt="Screenshot 2023-11-03 at 5 20 58 PM" src="https://github.com/actuallyitsnathaniel/ryland-website/assets/38742706/5a2c5d59-55c9-45ca-bf3b-970b0becd1dc">
+<img width="80%" alt="ryland-desktop" src="https://github.com/user-attachments/assets/80f3ac98-4ebc-4f7d-a145-939bc23e6a30" />
 
 ### [Sam Denton's Website](https://github.com/actuallyitsnathaniel/sam-denton-site)
 
